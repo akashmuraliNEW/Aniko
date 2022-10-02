@@ -6,7 +6,7 @@ from pyrogram.types import (
 from plugins.buttons import main_markup
 from config import BaseConfig
 from pyrogram.errors import *
-# from bot import Rohith
+from bot import Rohith
 dt = BaseConfig.OWNER_ID
 
 
